@@ -20,4 +20,4 @@ Project is created with:
 To run this project,click the code and copy the using - git clone address in the terminal,or download it using download zip button.After that if you used git clone you will find the folder where you downloaded.Open the folder using your favorite ide or text editior.And then can edit as you wish.
 
 ## Live
-[Live Preview Click the link:](https://ztanvir.github.io/environment-sound-player/)
+[To get a preview click the link](https://ztanvir.github.io/environment-sound-player/)
