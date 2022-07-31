@@ -8,11 +8,12 @@
 
 body {
     background-image: url(../image/erik-jan-leusink-q2ZRx5DlN4M.jpg);
+    font-family: 'Pacifico',sans-serif,serif;
     min-height: 100vh;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(10px);
 }
 
 .keys {
@@ -27,11 +28,14 @@ body {
     border-bottom: 4px solid white;
     padding: 5px;
     transition: all 1s;
+    min-width: 100px;
+    text-align: center;
 }
-.playing{
+
+.playing {
     transform: scale(1.2);
     border: 5px solid tomato;
-    box-shadow: 2px 2px rgba(31, 30, 30,.2);
+    box-shadow: 2px 2px rgba(31, 30, 30, .2);
 }
 
 kbd {
@@ -40,6 +44,7 @@ kbd {
     display: block;
     text-align: center;
     font-weight: bolder;
+    font-family: 'Pacifico';
 }
 
 span {
